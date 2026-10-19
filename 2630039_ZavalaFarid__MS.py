@@ -371,10 +371,10 @@ estas herramientas ayudan a crear programas más ordenados, confiables y fácile
 
 """
 References:
-1)
-2)
-3)
-4)
-5)
+1)https://www.youtube.com/watch?v=8tuyYql2duA
+2)https://www.youtube.com/watch?v=66myIII2sY0&pp=ygUJLnNwbGl0IHB5
+3)https://ellibrodepython.com/cadenas-python
+4)https://ellibrodepython.com/mutabilidad-python
+5)https://www.freecodecamp.org/espanol/news/sentencias-if-elif-y-else-en-python/
 
 """
